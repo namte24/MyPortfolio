@@ -2,7 +2,7 @@ import React from "react";
 import { CgWorkAlt } from "react-icons/cg";
 import { FaReact } from "react-icons/fa";
 import { LuGraduationCap } from "react-icons/lu";
-import discordImg from "@/public/discord.png";
+import pokedexImg from "@/public/pokedex.png";
 import realstateImg from "@/public/realstate.png";
 import weatherImg from "@/public/weather.png";
 
@@ -62,12 +62,12 @@ export const experiencesData = [
 
 export const projectsData = [
   {
-    title: "Discord-Clone",
+    title: "Pokedex",
     description:
-      "This is a real time chat application i made as a personal project.",
-    tags: ["React", "Firebase", "Tailwind", "Redux"],
-    imageUrl: discordImg,
-    visit: ["https://discord-clone-build-6f0l9971g-namte24.vercel.app/"],
+      "This is a Pokedex application .",
+    tags: ["React", "Tailwind"],
+    imageUrl: pokedexImg,
+    visit: ["pokedex-2-rdczb5kxd-namte24s-projects.vercel.app"],
   },
   {
     title: "Weather App",
@@ -78,7 +78,7 @@ export const projectsData = [
     visit: ["https://weather-application-self.vercel.app/"],
   },
   {
-    title: "Real State Front-End",
+    title: "Real Estate Front-End",
     description:
       "I crafted a Real Estate Front-End using React and Tailwind CSS, providing a stylish and intuitive platform for property listing exploration.",
     tags: ["React","Tailwind", "Framer"],
