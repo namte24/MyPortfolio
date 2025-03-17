@@ -75,15 +75,15 @@ export const projectsData = [
       "This is a Pokedex application .",
     tags: ["React", "Tailwind"],
     imageUrl: pokedexImg,
-    visit: ["pokedex-2-rdczb5kxd-namte24s-projects.vercel.app"],
+    visit: ["https://pokedex-2-lac.vercel.app/"],
   },
   {
-    title: "Weather App",
+    title: "Anime App",
     description:
-      "I created a Weather App using React, Tailwind CSS, and Redux, offering users real-time weather updates and forecasts in a sleek and user-friendly interface.",
+      "Discover all your favorite anime in one place.",
     tags: ["React", "Redux", "Tailwind"],
     imageUrl: weatherImg,
-    visit: ["https://weather-application-self.vercel.app/"],
+    visit: ["https://anime-app-mocha.vercel.app/"],
   },
   {
     title: "Real Estate Front-End",
