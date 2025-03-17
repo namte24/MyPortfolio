@@ -40,7 +40,7 @@ export const experiencesData = [
     description:
       "Currently pursuing a Master's degree in Applied Computing, focusing on advanced computing concepts and applications in real-world scenarios.",
     icon: React.createElement(LuGraduationCap),
-    date: "2023 - present",
+    date: "2024 - present",
   },
   {
     title: "Btech Computer Science",
@@ -64,7 +64,7 @@ export const experiencesData = [
     description:
       "I'm now a full-stack developer working as a freelancer. My stack includes React, Next.js, TypeScript, Tailwind, Prisma and MongoDB. I'm open to full-time opportunities.",
     icon: React.createElement(FaReact),
-    date: "2023 - present",
+    date: "2023",
   },
 ] as const;
 
