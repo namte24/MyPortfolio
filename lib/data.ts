@@ -35,6 +35,14 @@ export const links = [
 
 export const experiencesData = [
   {
+    title: "Master's Student in Applied Computing",
+    location: "Wilfrid Laurier University, Canada",
+    description:
+      "Currently pursuing a Master's degree in Applied Computing, focusing on advanced computing concepts and applications in real-world scenarios.",
+    icon: React.createElement(LuGraduationCap),
+    date: "2023 - present",
+  },
+  {
     title: "Btech Computer Science",
     location: "Majitar, Sikkim",
     description:
